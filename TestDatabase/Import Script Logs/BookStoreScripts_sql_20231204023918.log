@@ -1,0 +1,13 @@
+04/12/2023 9:39:18 AM	This log contains information about the import operation of the script 'BookStoreScripts.sql' into project 'TestDatabase' on computer 'KRISS' by user'Kriss.
+04/12/2023 9:39:18 AM	Started importing file: C:\Users\HP\Desktop\Tài liệu\Kiểm thử\BookStoreScripts.sql 
+04/12/2023 9:39:18 AM	File name C:\Users\HP\Desktop\Tài liệu\Kiểm thử\BookStoreScripts.sql (size: 9532)
+04/12/2023 9:39:18 AM	Parsing import script
+04/12/2023 9:39:18 AM	Total number of batches in script: 27
+04/12/2023 9:39:18 AM	Total number of statements in script: 9
+04/12/2023 9:39:18 AM	The script was successfully imported into the project.
+04/12/2023 9:39:18 AM	Analyzing schema objects...
+04/12/2023 9:39:18 AM	Scanning project for duplicate elements
+04/12/2023 9:39:18 AM	Finished duplicate element processing
+04/12/2023 9:39:18 AM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+04/12/2023 9:39:18 AM	A summary of the import was saved to the following location: D:\Visual Studio Project\Calculator\TestDatabase\Import Script Logs\BookStoreScripts_sql_20231204023918.log
+04/12/2023 9:39:18 AM	Click Finish to continue...

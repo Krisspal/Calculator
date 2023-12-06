@@ -1,0 +1,6 @@
+D:\Visual Studio Project\Calculator\TestDatabase\bin\Debug\TestDatabase.dacpac
+D:\Visual Studio Project\Calculator\TestDatabase\bin\Debug\TestDatabase.dll
+D:\Visual Studio Project\Calculator\TestDatabase\bin\Debug\TestDatabase.pdb
+D:\Visual Studio Project\Calculator\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
+D:\Visual Studio Project\Calculator\TestDatabase\obj\Debug\TestDatabase.dll
+D:\Visual Studio Project\Calculator\TestDatabase\obj\Debug\TestDatabase.pdb
